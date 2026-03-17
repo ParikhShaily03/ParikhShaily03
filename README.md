@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 I don't just maintain code — I build it from the ground up.
 
@@ -23,7 +23,7 @@ are non-negotiable for me.
 
 ---
 
-## 🛠️ Tech I Work With
+## Tech I Work With
 
 **Backend**
 ASP.NET Core · C# · Java Spring Boot · Python Django · REST APIs · JWT · SignalR
@@ -39,23 +39,23 @@ Playwright · Hangfire · Swagger · IIS · Azure · GitHub
 
 ---
 
-## 💼 Currently Working On
+## Currently Working On
 
-- 🏛️ GTU Student Portal — building new features & modules from scratch (ASP.NET Core / C#)
-- 📄 Question Paper Matching System — actively developing (Java Spring Boot + Thymeleaf) 🔄
-- 🌐 GTU Main Site Admin Panel — actively developing (Python Django) 🔄
+- GTU Student Portal — building new features & modules from scratch (ASP.NET Core / C#)
+- Question Paper Matching System — actively developing (Java Spring Boot + Thymeleaf) 
+- GTU Main Site Admin Panel — actively developing (Python Django) 
 
 ---
 
-## 🧩 Featured Projects
+## Featured Projects
 
 | Project | Stack | Status | Highlights |
 |---|---|---|---|
-| Student Management System | ASP.NET Core, Angular, SignalR | ✅ Completed | Built from scratch — RBAC, JWT, real-time notifications |
-| Asia Bank Web Automation | Playwright .NET, C# | ✅ Live | End-to-end banking workflow automation, payout module |
-| MS Teams Automation Tool | Playwright .NET, C# | ✅ Completed | Auto-login, user search, message sending |
-| GTU Student Portal & Admin Panel | ASP.NET Core, C# | ✅ Active | Built new modules & functionality for production portal |
-| GTU Question Paper Matching System | Java Spring Boot, Thymeleaf | 🔄 In Progress | Matching & managing question papers for GTU internally |
-| GTU Main Site Admin Panel | Python Django | 🔄 In Progress | Admin panel for GTU's main university website |
+| Student Management System | ASP.NET Core, Angular, SignalR | Completed | Built from scratch — RBAC, JWT, real-time notifications |
+| Asia Bank Web Automation | Playwright .NET, C# | Live | End-to-end banking workflow automation, payout module |
+| MS Teams Automation Tool | Playwright .NET, C# | Completed | Auto-login, user search, message sending |
+| GTU Student Portal & Admin Panel | ASP.NET Core, C# | Active | Built new modules & functionality for production portal |
+| GTU Question Paper Matching System | Java Spring Boot, Thymeleaf | In Progress | Matching & managing question papers for GTU internally |
+| GTU Main Site Admin Panel | Python Django | In Progress | Admin panel for GTU's main university website |
 
 ---
